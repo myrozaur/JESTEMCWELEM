@@ -1,4 +1,4 @@
-namespace mdomin
+namespace jd
 {
     internal static class Program
     {

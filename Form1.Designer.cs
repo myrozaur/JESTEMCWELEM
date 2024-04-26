@@ -1,4 +1,4 @@
-﻿namespace mdomin
+﻿namespace jd
 {
     partial class Form1
     {
